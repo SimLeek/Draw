@@ -1,0 +1,6 @@
+//compiled with mingw on windows 7 64-bit
+//libraries:
+mingw32
+SDLmain
+SDL
+SDL_gfx
